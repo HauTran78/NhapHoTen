@@ -8,6 +8,6 @@ int main()
     string hoten;
     cout<<"Moi nhap ten:";
     getline(cin,hoten);
-    cout<<"Xin Chao thang LZ "<< hoten <<endl;
+    cout<<"Xin Chao "<< hoten <<" dep trai" <<endl;
     return 0;
 }
